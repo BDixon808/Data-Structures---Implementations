@@ -1,10 +1,3 @@
-# Name: Brett Dixon
-# OSU Email: dixonbre@oregonstate.edu
-# Course: CS261 - Data Structures
-# Assignment: 6
-# Due Date: 8/15/2023
-# Description: Hashmap
-
 
 from include import (DynamicArray, LinkedList,
                         hash_function_1, hash_function_2)
