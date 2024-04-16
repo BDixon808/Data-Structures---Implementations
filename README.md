@@ -1,4 +1,4 @@
-# Data-Structures and Algorithms---Implementations
+# Hashmap Implementation in Python
 Implementations of data structures and algorithms in python by Brett Dixon 
 
 ## Hashmap 
